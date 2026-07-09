@@ -1,0 +1,29 @@
+name: 📝 Blog Posts Sync
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-posts-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    name: Inject latest Dev.to posts into README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+
+      - name: Fetch and inject latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # 1.9.6
+        with:
+          # Dev.to RSS feed for nikomix — updates the README section between
+          # <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> markers.
+          feed_list: "https://dev.to/feed/nikomix"
+          max_post_count: 5

@@ -1,0 +1,14 @@
+# zizmor configuration — https://docs.zizmor.sh/configuration/
+#
+# snake.yml and blog-posts.yml intentionally keep the credentials that
+# actions/checkout persists, because their follow-up steps
+# (stefanzweifel/git-auto-commit-action and gautamkrishnar/blog-post-workflow)
+# push the regenerated SVG / README back to the repository using those
+# credentials. Disabling persist-credentials would break the auto-commit, so
+# the low-confidence `artipacked` finding is intentionally suppressed for them.
+# Every other workflow sets `persist-credentials: false`.
+rules:
+  artipacked:
+    ignore:
+      - snake.yml
+      - blog-posts.yml
