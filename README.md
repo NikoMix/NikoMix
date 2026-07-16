@@ -100,23 +100,6 @@ mission:     turn partner capabilities into production-grade platforms
 
 </div>
 
-## 📈 Contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikoMix&bg_color=0D1117&color=00E5FF&line=7C4DFF&point=FF2EC4&area=true&hide_border=true&custom_title=Niko%27s%20Contribution%20Graph" alt="Activity graph" width="100%" />
-
-</div>
-
-## 🏆 Highlights
-
-<div align="center">
-
-<!-- Self-hosted, committed by the metrics workflow — no external view-time dependency. -->
-<img src="./assets/metrics.svg" alt="GitHub highlights — achievements, contribution isocalendar and language breakdown" width="100%" />
-
-</div>
-
 <div align="center">
 
 ## 🤝 Let's connect
