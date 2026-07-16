@@ -92,11 +92,6 @@ mission:     turn partner capabilities into production-grade platforms
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NikoMix&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2EC4&text_color=C9D1D9&ring_color=7C4DFF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoMix&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
-
-<br/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=NikoMix&hide_border=true&background=0D1117&stroke=1F2A37&ring=7C4DFF&fire=FF2EC4&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B98A5&dayLabels=9FB3C8" alt="GitHub streak" />
 
 <br/>
