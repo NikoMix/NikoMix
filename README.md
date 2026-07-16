@@ -34,8 +34,6 @@
 
 </div>
 
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
-
 ## 🧬 About me
 
 ```yaml
@@ -52,8 +50,6 @@ mission:     turn partner capabilities into production-grade platforms
 - 💬 &nbsp;Ask me about **Azure**, **AI platforms**, **Kubernetes**, **hybrid cloud** & **partner specializations**.
 - ⚡ &nbsp;Maker at heart — author of the **MixMedia** open-source libraries (Philips JointSpace, UPnP).
 - 📫 &nbsp;Reach me through any of the badges above.
-
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
 
 ## 🛠️ Tech & cloud stack
 
@@ -92,8 +88,6 @@ mission:     turn partner capabilities into production-grade platforms
 
 </div>
 
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -111,8 +105,6 @@ mission:     turn partner capabilities into production-grade platforms
 
 </div>
 
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
-
 ## 📈 Contribution graph
 
 <div align="center">
@@ -129,41 +121,6 @@ mission:     turn partner capabilities into production-grade platforms
 <img src="./assets/metrics.svg" alt="GitHub highlights — achievements, contribution isocalendar and language breakdown" width="100%" />
 
 </div>
-
-## 🐍 Watch my contributions get eaten
-
-<div align="center">
-
-<img src="./assets/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
-</div>
-
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
-
-## ✍️ Latest from my blog
-
-<!-- The list below is auto-updated from https://dev.to/nikomix by a GitHub Action. -->
-<!-- BLOG-POST-LIST:START -->
-- 📭 &nbsp;Fresh posts from [dev.to/nikomix](https://dev.to/nikomix) will appear here automatically.
-<!-- BLOG-POST-LIST:END -->
-
-<div align="right"><a href="https://dev.to/nikomix"><img src="https://img.shields.io/badge/Read_more_on-Dev.to-FF2EC4?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Read more on Dev.to" /></a></div>
-
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
-
-## 🌟 Featured work
-
-<div align="center">
-
-<a href="https://github.com/NikoMix/MixMedia.JointSpace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NikoMix&repo=MixMedia.JointSpace&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2EC4&text_color=C9D1D9" alt="MixMedia.JointSpace" /></a>
-<a href="https://github.com/NikoMix/MixMedia.Upnp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NikoMix&repo=MixMedia.Upnp&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2EC4&text_color=C9D1D9" alt="MixMedia.Upnp" /></a>
-
-<a href="https://github.com/NikoMix/sync-az-private-marketplace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NikoMix&repo=sync-az-private-marketplace&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2EC4&text_color=C9D1D9" alt="sync-az-private-marketplace" /></a>
-<a href="https://github.com/NikoMix/specialization-ai-apps"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NikoMix&repo=specialization-ai-apps&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2EC4&text_color=C9D1D9" alt="specialization-ai-apps" /></a>
-
-</div>
-
-<img src="./assets/divider-neon.svg" alt="" width="100%" />
 
 <div align="center">
 
