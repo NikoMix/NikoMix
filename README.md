@@ -22,16 +22,6 @@
 <img src="https://img.shields.io/badge/Based_in-Germany_%F0%9F%87%A9%F0%9F%87%AA-FF2EC4?style=for-the-badge&labelColor=0D1117" alt="Based in Germany" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
 
-<br/><br/>
-
-<!-- social neon badges -->
-<a href="https://www.linkedin.com/in/niko-mix/"><img src="https://img.shields.io/badge/LinkedIn-Niko_Mix-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-<a href="https://www.mixmedia.dev"><img src="https://img.shields.io/badge/Website-mixmedia.dev-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" /></a>
-<a href="https://dev.to/nikomix"><img src="https://img.shields.io/badge/Dev.to-nikomix-FF2EC4?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to" /></a>
-<a href="https://stackoverflow.com/users/6499664/niko-mix"><img src="https://img.shields.io/badge/Stack_Overflow-Niko_Mix-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow" /></a>
-<a href="https://x.com/MixNiko"><img src="https://img.shields.io/badge/X-%40MixNiko-00E5FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X (Twitter)" /></a>
-<a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Microsoft-Employee-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0D1117" alt="Microsoft" /></a>
-
 </div>
 
 ## 🧬 About me
@@ -109,8 +99,8 @@ mission:     turn partner capabilities into production-grade platforms
 <a href="https://dev.to/nikomix"><img src="https://img.shields.io/badge/Dev.to-nikomix-FF2EC4?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to" /></a>
 <a href="https://stackoverflow.com/users/6499664/niko-mix"><img src="https://img.shields.io/badge/Stack_Overflow-Niko_Mix-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow" /></a>
 <a href="https://x.com/MixNiko"><img src="https://img.shields.io/badge/X-%40MixNiko-00E5FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X (Twitter)" /></a>
+<a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Microsoft-Employee-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0D1117" alt="Microsoft" /></a>
 
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C4DFF&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+epic+on+Azure" alt="Thanks for visiting" />
 
