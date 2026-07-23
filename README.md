@@ -20,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?username=NikoMix&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/NikoMix?style=for-the-badge&logo=github&logoColor=white&color=7C4DFF&labelColor=0D1117&label=FOLLOWERS" alt="Followers" />
 <img src="https://img.shields.io/badge/Based_in-Germany_%F0%9F%87%A9%F0%9F%87%AA-FF2EC4?style=for-the-badge&labelColor=0D1117" alt="Based in Germany" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
+<a href="https://aka.ms/bookNiko"><img src="https://img.shields.io/badge/Open_to-Collaboration-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" /></a>
 
 </div>
 
@@ -38,7 +38,7 @@ mission:     turn partner capabilities into production-grade platforms
 - 🤝 &nbsp;I help partners turn Azure into platforms — **AI apps, AKS, hybrid cloud, agentic DevOps, AVD, SAP on Azure**.
 - 🌱 &nbsp;Deep-diving **Azure AI Foundry**, agentic systems, and platform engineering.
 - 💬 &nbsp;Ask me about **Azure**, **AI platforms**, **Kubernetes**, **hybrid cloud** & **partner specializations**.
-- ⚡ &nbsp;Maker at heart — author of the **MixMedia** open-source libraries (Philips JointSpace, UPnP).
+- ⚡ &nbsp;Maker at heart 
 - 📫 &nbsp;Reach me through any of the badges above.
 
 ## 🛠️ Tech & cloud stack
@@ -94,7 +94,7 @@ mission:     turn partner capabilities into production-grade platforms
 
 ## 🤝 Let's connect
 
-<a href="https://www.linkedin.com/in/niko-mix/"><img src="https://img.shields.io/badge/LinkedIn-Niko_Mix-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/niko-mix/"><img src="https://img.shields.io/badge/LinkedIn-Niko_Mix-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0072B1" alt="LinkedIn" /></a>
 <a href="https://www.mixmedia.dev"><img src="https://img.shields.io/badge/Website-mixmedia.dev-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" /></a>
 <a href="https://dev.to/nikomix"><img src="https://img.shields.io/badge/Dev.to-nikomix-FF2EC4?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to" /></a>
 <a href="https://stackoverflow.com/users/6499664/niko-mix"><img src="https://img.shields.io/badge/Stack_Overflow-Niko_Mix-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow" /></a>
