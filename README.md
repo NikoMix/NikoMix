@@ -39,7 +39,7 @@ mission:     turn partner capabilities into production-grade platforms
 - 🌱 &nbsp;Deep-diving **Azure AI Foundry**, agentic systems, and platform engineering.
 - 💬 &nbsp;Ask me about **Azure**, **AI platforms**, **Kubernetes**, **hybrid cloud** & **partner specializations**.
 - ⚡ &nbsp;Maker at heart 
-- 📫 &nbsp;Reach me through any of the badges above.
+- 📫 &nbsp;Reach me through any of the badges from Let's connect.
 
 ## 🛠️ Tech & cloud stack
 
